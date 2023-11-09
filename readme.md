@@ -3,7 +3,7 @@ ENG: This is a simple mobile APP made using the Android Studio IDE as a college 
 
 PT-BR: Isso é um simples APP mobile feito utilizando a IDE Android Studio como um projeto de faculdade para disciplina de Programação Mobile.
 
-##ENG:
+## ENG:
 ### Introduction
 SyncWave is a android APP which contains some guitar pedals and their information so you can learn about them and decide which one you will buy next for your guitar rig. Users of this APP will also be able to add their own pedals into the library and save pedals pages to see later on.
 
