@@ -20,7 +20,7 @@ After finishing the creation of SyncWave for the Mobile Programming class, the t
 As soon as this repo becomes public, feel free to download, alter and add more feature and improvements to this app. Any contribution is every valuable :) 
 
 ## PT-BR
-###Introdução
+### Introdução
 SyncWave é um APP android que contem alguns pedais de guitarra e suas informações para que voÇê possa aprender sobre eles e decidir qual escolher na proxuma contra para seu "rig" de guitarra. Usuarios desse APP irão poder adicionar seus proprios pedais na biblioteca e salvar paginas de pedais para mais tarde.
 
 ### Componentes que serão adicionados
