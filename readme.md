@@ -1,7 +1,7 @@
 # SyncWave
-ENG: This is a simple mobile APP made using the Android Studio IDE as a college project for the Mobile Programming class.
+**ENG:** This is a simple mobile APP made using the Android Studio IDE (with XML and Java) as a college project for the Mobile Programming class.
 
-PT-BR: Isso é um simples APP mobile feito utilizando a IDE Android Studio como um projeto de faculdade para disciplina de Programação Mobile.
+**PT-BR:** Isso é um simples APP mobile feito utilizando a IDE Android Studio (com XML e Java) como um projeto de faculdade para disciplina de Programação Mobile.
 
 ## ENG:
 ### Introduction
@@ -9,12 +9,15 @@ SyncWave is a android APP which contains some guitar pedals and their informatio
 
 ### Things that will be added
 - [ ] Cleaner code
-- [ ] Differemt Framework
+- [ ] Re-do the app on different framework
 - [ ] Option to save pedals in your personal library
 - [ ] Better Design
 - [ ] A website to Download the APK
 - [ ] More Pedals
 - [ ] Users being able to added their own pedals
+
+### Currently Working On
+- [ ] Re-doing the app on React Native
 
 ### Future Modifications
 After finishing the creation of SyncWave for the Mobile Programming class, the tool used for development of this application will change from Android Studio to React Native, since the project team find this framework to be less "painful", more productive and easier to use than the Android Studio.
@@ -28,12 +31,15 @@ SyncWave é um APP android que contem alguns pedais de guitarra e suas informaç
 
 ### Componentes que serão adicionados
 - [ ] Codigo mais limpo
-- [ ] Framework diferente
+- [ ] Refazer o app em uma framework diferente
 - [ ] Opçãod e salvar pedais em sua biblioteca pessoal
 - [ ] Um design melhor
 - [ ] Um site para fazer download da APK
 - [ ] Mais Pedais
 - [ ] Usuarios sendo capazes de adicionar seus proprios pedais.
+
+### Atualmente trabalhando em
+- [ ] Refazendo o app em React Native
 
 ### Futuras Modificações
 Depois de terminar a criação do SyncWave para disciplina de Programação Mobile, a ferramenta usada para o desenvolvimento dessa aplicação será trocada do Android Studio para React Native, já que a equipe do projeto considera essa framework menos "dolorosa", mais produtiva e fácil de usar do que o Android Studio.
